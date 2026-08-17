@@ -1,0 +1,1 @@
+"*You see a tall wiry half elf woman in a plaid flannel nightgown with a lit torch in one hand and a five pound straight-peen hammer in the other. Her eyes are peering into the darkness over the lake just to the north.*"
