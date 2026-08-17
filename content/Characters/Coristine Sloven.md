@@ -4,4 +4,4 @@
 - Is on his way to meet with [[Bangmor]]. Bangmor has sent him [[Bangmor's Letter]] inviting a "bright and promising young mind" to work with him on advanced projects.
 - Wears a timepiece of his own design.
 - Son of [[Duke Sloven]]
-- Left [[The Village of Entwhistle]] on his way to 
+- Left [[The Village of Entwhistle]] on his way to [[Millspar]] on [[Day 2]]
