@@ -1,0 +1,5 @@
+- met [[Osgood]] the driver and [[Coristine Sloven]] (son of [[Duke Sloven]] of [[Valendia]]), they are on the way to [[The City of Millspar]]
+- met [[Fildara]] the blacksmith of [[The Village of Entwhistle]] and fought off the kobold raiders
+- learned of job offers at [[Wizard's Tower Brewing Co.]] and [[Farmer Pickle]]'s place
+- had some dreams
+- party advanced to level 2

@@ -1,0 +1,3 @@
+- Child of [[Crognar Crumpknot]]
+- Works at [[The Quail's Egg]]
+- Wants to attend Bard College in [[The City of Millspar]]

@@ -1,0 +1,1 @@
+- Hired by [[Duke Sloven]] to escort [[Coristine Sloven]] to [[The City of Millspar]]

@@ -1,0 +1,2 @@
+- Owner/operator of [[The Quail's Egg]]
+- Father to [[Crustino Crumpknot (Dimple)]]
