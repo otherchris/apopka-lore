@@ -1,3 +1,5 @@
+16 Kythorn, 1325 DR
+
 The adventurers awaken at the Entwhistle campsite.
 
 - Note there is a potion shop and stables in this village

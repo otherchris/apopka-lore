@@ -1,2 +1,6 @@
-- [Player's Handbook](https://archive.org/details/dungeons-dragons-2024-players-handbook)
-- Our [virtual tabletop](https://www.owlbear.rodeo/room/9II-e41SQwqh/The%20Curse%20of%20Apopka)
+- Game Mechanics
+	- [Player's Handbook](https://archive.org/details/dungeons-dragons-2024-players-handbook)
+	- Our [virtual tabletop](https://www.owlbear.rodeo/room/9II-e41SQwqh/The%20Curse%20of%20Apopka)
+- Lore Assumptions
+	- [Calendar](https://forgottenrealms.fandom.com/wiki/Calendar_of_Harptos)
+	- [[Pantheon]]
