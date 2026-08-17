@@ -1,0 +1,2 @@
+- [Player's Handbook](https://archive.org/details/dungeons-dragons-2024-players-handbook)
+- Our [virtual tabletop](https://www.owlbear.rodeo/room/9II-e41SQwqh/The%20Curse%20of%20Apopka)
