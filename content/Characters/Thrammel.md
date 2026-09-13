@@ -1,0 +1,1 @@
+Described by [[Fildara]] as a dwarf with purple hair and a purple beard who can be found at [[The Careless Heart]].

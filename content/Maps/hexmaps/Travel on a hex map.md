@@ -1,0 +1,3 @@
+- **Scale**: Hexes are three miles across. This means they take about an hour to cross by foot (slower if the terrain is rough). 
+- **Visibility**: Normally you can see into neighboring hexes in the distance. You might see more if you are on a hill, less if there are obstructions, etc. 
+- **Resting**: To avoid exhaustion, you must consume two travel rations and long rest once per day.

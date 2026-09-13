@@ -20,4 +20,4 @@ The adventurers awaken at the Entwhistle campsite. (8 am)
 - Leaving the cave, they return to [[Farmer Pickle]]'s house. There, [[Dakota]] and [[Rickward]] are found to have claimed the reward and stolen the money and smokes. The party chases them down and retrieves their goods. At [[Dakota]]'s behest, [[Rickward]] tells the party that "magical treasure" can be found in the ruins north of the village. (3 pm)
 - The party returns to the Quail's Egg for some food and to revisit the bulletin board. [[Crognar Crumpknot]] invites the party to dinner "tonight or maybe tomorrow night" at [[Fildara]]'s house. 
 - The party goes to [[Wizard's Tower Brewing Co.]] to take up the "basement related work". They meet [[Geezo]] the proprietor and go into the basement to make it safe for workers. After battling giant zombie rats, giant centipedes and a horrifying worm monster they find two healing potions, a wizards book containing the spell False Life, and a small purple-black orb.
-- ...
+- Returning to the village, the party has dinner with [[Fildara]] and [[Crognar Crumpknot]]. In the course of the conversation it comes out that Fildara is a Harper agent.
